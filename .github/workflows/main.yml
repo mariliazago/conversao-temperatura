@@ -47,5 +47,5 @@ jobs:
           push: true
           tags:
             mariliazago/aula-conversao-temperatura:v1
-            mariliazago/aula-conversao-temperatura:latest
+
       
