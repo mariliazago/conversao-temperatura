@@ -55,6 +55,6 @@ jobs:
           file: ./src/Dockerfile
           push: true
           tags:
-            mariliazago/aula-conversao-temperatura:v1
+            mariliazago/aula-conversao-temperatura:${{github.run_number}}
 
       
